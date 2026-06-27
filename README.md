@@ -1,4 +1,4 @@
-# Preorder Manager
+![alt text](<Screenshot from 2026-06-27 11-11-15.png>) ![alt text](<Screenshot from 2026-06-27 11-11-25.png>) ![alt text](<Screenshot from 2026-06-27 11-11-35.png>) ![alt text](<Screenshot from 2026-06-27 11-11-52.png>)
 
 > A full-stack preorder management application built with Next.js 16, Prisma, and SQLite.
 
@@ -110,7 +110,7 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/md-borno/preorder-manager.git
+https://github.com/md-borno/pre-order-manager.git
 cd preorder-manager
 
 # 2. Install & configure
@@ -138,7 +138,7 @@ That's it — you should see 2 sample preorders (iPhone 15 Pro, Samsung Galaxy S
 
 ```bash
 # HTTPS (easiest)
-git clone https://github.com/md-borno/preorder-manager.git
+https://github.com/md-borno/pre-order-manager.git
 cd preorder-manager
 
 ```
